@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+netCDF4
+cartopy
+pyshp
+shapely
+# iris  # (Opcional, solo si sigues usándolo en vientos)[cite: 3]
