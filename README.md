@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ---
 
-## Project Structure
+## Project Structure (target architecture)
 
 ```
 uy-climate-projections/
