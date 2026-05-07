@@ -194,7 +194,7 @@ https://github.com/ferariz/uy-climate-projections
 ## Contact
 
 **Fernando Arizmendi, PhD**
-Senior AI Engineer · Climate Scientist
+AI Engineer · Climate Scientist
 📍 Montevideo, Uruguay
 🔗 [GitHub](https://github.com/ferariz) · [LinkedIn](https://linkedin.com/in/fernando-arizmendi)
 📧 <arizmendi.f@gmail.com>
